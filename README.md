@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Christopher Jan 👋</h1>
 
-<h3 align="center">Software Developer | Tech Enthusiast</h3>
+<h3 align="center">IT Enthusiast | Software Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-jan-cayabyab-746996271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
