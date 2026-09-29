@@ -97,7 +97,7 @@ During my Software Engineer Internship, I also gained practical experience in **
 
 <div align="center">
 
-### Interested in collaborating or discussing technology?
+### Interested in Collaborating or Discussing Technology?
 
 <br>
 
@@ -121,7 +121,7 @@ During my Software Engineer Internship, I also gained practical experience in **
 
 ### 💡 *Build. Learn. Solve. Improve.*
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thanks For Visiting My Profile!**
 
 </div>
 
